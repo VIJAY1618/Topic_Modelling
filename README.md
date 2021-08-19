@@ -1,7 +1,7 @@
 # Topic_modelling
 Topic modelling is statsitical modelling for finding the topics of the  document  that can explain the hidden information in a particular document.
 
-LDA Latent Dirchiled Allocation ,it is a probailistc topic modelling.LDA assumes that each document is a mix of topics and each topic is mix of words or tokens.
+LDA Latent Dirchiled Allocation ,it is a probabilistic topic modelling.LDA assumes that each document is a mix of topics and each topic is mix of words or tokens.
 
 Latent:it means yet hidden/abstract is not discovered
 
